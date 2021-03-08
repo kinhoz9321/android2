@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+//app을 실행했을 때 처음 사용자를 대면하는 MainActivity
 public class MainActivity extends AppCompatActivity {
 
     @Override
